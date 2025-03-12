@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Owais Mohammad</h1>
-<h3 align="center">A passionate Competitive Programmer from India</h3>
+<h3 align="center">A passionate Competitive Programmer and web developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=owaish7&label=Profile%20views&color=0e75b6&style=flat" alt="owaish7" /> </p>
 
-- 🌱 I’m currently learning **ReactJS,Express**
+- 🌱 I’m currently learning **FAST -API**
 
-- 💬 Ask me about **C++,python,html,css,js**
+- 💬 Ask me about **C++,python,html,css,js,React,Node**
 
 - 📫 How to reach me **lightningowais@gmail.com**
 
